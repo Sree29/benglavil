@@ -2452,9 +2452,11 @@ article.post .content-post .more-link a:hover {
     height: auto;
     background-color: var(--primary-color2);
     /* background-image: url(../images/mask-back-ground/Mask-group-6.png); */
-      background-image: url(../images/home/footer.png);
+      /* background-image: url(../images/home/footer.png); */
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: 
+#348e38 !;
 }
 
 
